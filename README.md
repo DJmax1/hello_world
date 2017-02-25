@@ -1,2 +1,7 @@
 # hello_world
-hello world 
+#include<stdio.h>
+#include<conio.h>
+void main(){
+printf("\n Hello world");
+getch();
+}
